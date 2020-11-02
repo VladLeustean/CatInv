@@ -1,0 +1,2 @@
+variabile curate
+pygame.org //toate comenzile
